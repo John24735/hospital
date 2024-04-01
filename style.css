@@ -19,6 +19,7 @@
   text-transform: capitalize;
   transition: all 0.2s ease-out;
   text-decoration: none;
+  scrollbar-width: none;
 }
 
 html {
